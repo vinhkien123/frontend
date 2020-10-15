@@ -1,0 +1,23 @@
+body{
+    .modal-backdrop{
+        display: none;
+    }
+    .container-fluid {
+        padding: 0;
+    }
+    .viewContent{
+        margin: auto;
+        width: 90%;
+    }
+    #root{
+        max-width: 1900px;
+        margin: auto;
+    }
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+        box-sizing: border-box;
+        appearance: none;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+}
